@@ -1,8 +1,8 @@
-# 🔧 Mechanical Components Design Collection
+# 🔧 Mechanical Components and Assemblies Design
 
-### Autodesk Fusion 360 CAD Models
+### Autodesk Fusion 360 CAD Collection
 
-This repository contains a collection of mechanical components designed in Autodesk Fusion 360. Each project helped me explore different CAD tools, modeling techniques, and design concepts while improving my understanding of mechanical design.
+This repository contains a collection of mechanical components and assemblies designed using Autodesk Fusion 360. Each model helped me explore different CAD tools and design concepts while strengthening my understanding of mechanical design and engineering visualization.
 
 ---
 
@@ -18,7 +18,9 @@ This repository contains a collection of mechanical components designed in Autod
 
 At first, this looked like a simple model, but creating the smooth transition between the hook and base introduced me to the Loft feature. After a few attempts, I understood why lofts are such a powerful tool for creating organic shapes.
 
-![Wall-Mounted Hook Design](Wall-Mounted Hook Design.png)
+<p align="center">
+  <img src="./Wall-Mounted%20Hook%20Design.png" width="400">
+</p>
 
 ---
 
@@ -26,15 +28,19 @@ At first, this looked like a simple model, but creating the smooth transition be
 
 This model was completed as part of a course assessment. It challenged me to combine several Fusion 360 features into a single design and served as an excellent revision of the fundamentals.
 
-![Pipe Support Bracket Design](Pipe Support Bracket Design.png)
+<p align="center">
+  <img src="./Pipe%20Support%20Bracket%20Design.png" width="400">
+</p>
 
 ---
 
 ### 3. Pipe Elbow Assembly
 
-This project made me appreciate the Sweep feature. Watching a simple profile follow a path and become a realistic pipe component showed how efficient CAD tools can be.
+This project made me appreciate the Sweep feature. Watching a simple profile follow a path and become a realistic pipe component showed how efficient CAD tools can be. Safe to say, Sweep quickly became one of my favorite tools.
 
-![Pipe Elbow Assembly](Pipe Elbow Assembly.png)
+<p align="center">
+  <img src="./Pipe%20Elbow%20Assembly.png" width="400">
+</p>
 
 ---
 
@@ -42,23 +48,27 @@ This project made me appreciate the Sweep feature. Watching a simple profile fol
 
 Building on the elbow assembly, this model introduced flange features commonly used in industrial piping systems and reinforced the importance of dimensional accuracy.
 
-![Flanged Elbow Pipe Fitting](Flanged Elbow Pipe Fitting.png)
+<p align="center">
+  <img src="./Flanged%20Elbow%20Pipe%20Fitting.png" width="400">
+</p>
 
 ---
 
 ### 5. Flanged Support Spacer Design
 
-Although the geometry appears straightforward, maintaining alignment between multiple features required careful planning and attention to detail.
+Although the geometry appears straightforward, maintaining alignment between multiple features required careful planning and attention to detail. It was a good reminder that simple-looking parts are not always simple to model.
 
-![Flanged Support Spacer Design](Flanged Support Spacer Design.png)
+<p align="center">
+  <img src="./Flanged%20Support%20Spacer%20Design.png" width="400">
+</p>
 
 ---
 
 ### 6. Butt Hinge Design
 
-I expected this to be one of the easiest models in the collection. It turned out to be a great lesson in understanding how simple mechanical components work together, proving that even everyday objects involve thoughtful engineering.
+I expected this to be one of the easiest models in the collection. It turned out to be a great lesson in understanding how seemingly simple components work together. A hinge is something we rarely notice—until it stops working.
 
-🎥 Motion Demonstration: Hinge.mp4
+🎥 Motion Demonstration: `Hinge.mp4`
 
 ---
 
@@ -72,6 +82,18 @@ I expected this to be one of the easiest models in the collection. It turned out
 - Product Design
 
 ---
+
+## 🎯 Key Learnings
+
+- Applied Loft and Sweep features to create complex geometries
+- Improved understanding of mechanical components and assemblies
+- Strengthened parametric CAD modeling skills
+- Practiced industry-inspired component design
+- Developed a more structured CAD workflow
+
+---
+
+## 👩‍💻 Author
 
 **Praneesha**  
 Mechanical Engineering Student | IIT Jodhpur
