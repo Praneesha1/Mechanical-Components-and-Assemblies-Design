@@ -64,7 +64,7 @@ Although the geometry appears straightforward, maintaining alignment between mul
 
 ---
 
-### 6. Butt Hinge Design
+### 6. Hinge Design
 
 I expected this to be one of the easiest models in the collection. It turned out to be a great lesson in understanding how seemingly simple components work together. A hinge is something we rarely notice—until it stops working.
 
